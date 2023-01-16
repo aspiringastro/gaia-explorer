@@ -1,6 +1,7 @@
 # gaia-explorer
 Explore Gaia dataset with Astropy and learn ML models as a side benefit
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aspiringastro/gaia-explorer/HEAD)
 
 ## Computing galactic orbits of stars with Gaia
 
